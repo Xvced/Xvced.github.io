@@ -1,12 +1,12 @@
 :root {
-  --primary: #2563eb;
-  --primary-light: #3b82f6;
+  --primary: #380762;я
+  --primary-light: #000000;
   --secondary: #7c3aed;
   --accent: #ec4899;
   --text: #f8fafc;
-  --text-secondary: #94a3b8;
-  --bg: #0f172a;
-  --bg-light: #1e293b;
+  --text-secondary: #D8E3F1;
+  --bg: #2C2D2E;
+  --bg-light: #030508;
   --card-bg: rgba(30, 41, 59, 0.7);
   --border: rgba(255, 255, 255, 0.1);
   --shadow: 0 8px 12px -3px rgba(0, 0, 0, 0.3);
